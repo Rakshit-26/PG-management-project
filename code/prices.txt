@@ -1,0 +1,13 @@
+Rs.13000 p.m.
+Rs.9000 p.m.
+
+
+
+
+
+
+
+
+
+NOTE:Line1 denotes: Price of 1P Rooms
+          Line2 denotes: Price of 2P Rooms
